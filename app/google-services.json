@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "16948411464",
+    "project_id": "ejemplologin-45aca",
+    "storage_bucket": "ejemplologin-45aca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16948411464:android:2f57d77dce3e301b58ac7d",
+        "android_client_info": {
+          "package_name": "org.itson.edu.hinojoa.practica0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSZTeNhOYP7I6jbDHFsEBkYFdZt9RSsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
